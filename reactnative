@@ -14,8 +14,22 @@
 * Do PMs need to code? // http://ruoyusun.com/2016/08/13/do-pm-need-to-know-how-to-code.html
 
 * ECMAscript6 // https://github.com/lukehoban/es6features
-Inspiration
-http://foundermantras.com/2016-10-02
-https://www.sketchapp.com/
+
+* Inspiration: 
+    - http://foundermantras.com/2016-10-02
+    - https://www.sketchapp.com/
 
 * Jordan Leigh - React Tutorial // https://www.youtube.com/channel/UC8CB0ZkvogP7tnCTDR-zV7g
+* Guide - https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#updating-to-new-releases
+
+* SublimeLinter install guide - https://github.com/roadhump/SublimeLinter-eslint
+
+* Decorator - https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.p4uo4vbk9
+
+* Fullstack React - https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/
+
+* NPM module creation - https://quickleft.com/blog/creating-and-publishing-a-node-js-module/
+
+* Regression Analysis - https://www.youtube.com/watch?v=k_OB1tWX9PM
+
+* Webpack Intro - https://www.youtube.com/watch?v=WQue1AN93YU
